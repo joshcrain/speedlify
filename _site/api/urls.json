@@ -1,0 +1,17 @@
+{
+  "https://joshcrain.io/ancestry/": {
+    "requestedUrl": "https://joshcrain.io/ancestry/",
+    "url": "https://joshcrain.io/ancestry/",
+    "hash": "36f96310",
+    "categories": [
+      "joshcrain"
+    ],
+    "vertical": "joshcrain"
+  },
+  "https://joshcrain.io/": {
+    "requestedUrl": "https://joshcrain.io/",
+    "url": "https://joshcrain.io/",
+    "hash": "953e66da",
+    "categories": []
+  }
+}

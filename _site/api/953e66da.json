@@ -1,0 +1,52 @@
+{
+  "url": "https://joshcrain.io/",
+  "requestedUrl": "https://joshcrain.io/",
+  "timestamp": 1608227009494,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.2.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 912,
+  "speedIndex": 977.409920000486,
+  "largestContentfulPaint": 912,
+  "totalBlockingTime": 67,
+  "cumulativeLayoutShift": 0.007921142578125002,
+  "timeToInteractive": 1029,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 76.59200000000004,
+  "weight": {
+    "summary": "3 requests • 68 KiB",
+    "total": 70070,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 11058,
+    "font": 59012,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 284,
+    "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  }
+}

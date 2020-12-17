@@ -1,0 +1,52 @@
+{
+  "url": "https://joshcrain.io/ancestry/",
+  "requestedUrl": "https://joshcrain.io/ancestry/",
+  "timestamp": 1608227005314,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.2.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 897.095,
+  "speedIndex": 1331.8429582932008,
+  "largestContentfulPaint": 897.095,
+  "totalBlockingTime": 108.5,
+  "cumulativeLayoutShift": 0.03047200520833333,
+  "timeToInteractive": 1155.595,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 219.02399999999997,
+  "weight": {
+    "summary": "3 requests • 67 KiB",
+    "total": 68973,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 9961,
+    "font": 59012,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 249,
+    "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  }
+}
