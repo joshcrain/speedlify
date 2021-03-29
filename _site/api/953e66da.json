@@ -1,12 +1,12 @@
 {
   "url": "https://joshcrain.io/",
   "requestedUrl": "https://joshcrain.io/",
-  "timestamp": 1615410831572,
+  "timestamp": 1616847075439,
   "ranks": {
-    "hundos": 1,
-    "performance": 1,
+    "hundos": 2,
+    "performance": 2,
     "accessibility": 1,
-    "cumulative": 1
+    "cumulative": 2
   },
   "lighthouse": {
     "version": "6.2.0",
@@ -16,22 +16,22 @@
     "seo": 1,
     "total": 400
   },
-  "firstContentfulPaint": 935.889,
-  "speedIndex": 935.889,
-  "largestContentfulPaint": 935.889,
+  "firstContentfulPaint": 1119.129,
+  "speedIndex": 1468.1958739965319,
+  "largestContentfulPaint": 1119.129,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 935.889,
+  "timeToInteractive": 1119.129,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 46.96700000000001,
+  "timeToFirstByte": 230.29899999999998,
   "weight": {
     "summary": "1 request • 11 KiB",
-    "total": 11305,
+    "total": 11687,
     "image": 0,
     "imageCount": 0,
     "script": 0,
     "scriptCount": 0,
-    "document": 11305,
+    "document": 11687,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 0,
@@ -40,13 +40,13 @@
     "thirdPartyCount": 0
   },
   "axe": {
-    "passes": 335,
+    "passes": 344,
     "violations": 0
   },
   "previousRanks": {
-    "hundos": 1,
-    "performance": 1,
+    "hundos": 2,
+    "performance": 2,
     "accessibility": 1,
-    "cumulative": 1
+    "cumulative": 2
   }
 }
